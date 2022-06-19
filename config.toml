@@ -1,0 +1,32 @@
+baseurl = "https://rcegan.xyz/"
+title = "rcegan.xyz"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+
+[params]
+# Cutting off the page title to two chars for mobile (console-demo -> co)
+titleCutting = true
+
+# Set the animation style -- https://animate.style/
+# To disable animations, please remove or comment animationStyle parameter
+animateStyle = "animated zoomIn fast"
+
+[[params.navlinks]]
+name = "about"
+url = "about/"
+
+[[params.navlinks]]
+name = "posts"
+url = "posts/"
+
+[[params.navlinks]]
+name = "projects"
+url = "projects/"
+
+[[params.navlinks]]
+name = "twitter"
+url = "https://twitter.com/GarrysSketch"
+
+#[[params.navlinks]]
+#name = "photos/"
+#url = "photos/"
