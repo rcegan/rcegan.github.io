@@ -1,3 +1,4 @@
+---
 title: "'Attempted UAC Bypass via iscsicpl.exe' Sentinel detection"
 date: 2022-07-20T00:00:00Z
 draft: false
